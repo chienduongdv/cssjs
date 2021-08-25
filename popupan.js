@@ -1,5 +1,7 @@
-
-	var url_popup = 'https://bit.ly/dienmayquanghanh313';
+	var i=Math.floor(Math.random() * 5);
+	var urls=["https://bit.ly/dienmayquanghanh313","link2","link3","link4","link5"];
+	
+	var url_popup = urls[i];
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
