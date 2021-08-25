@@ -1,5 +1,5 @@
 	var i=Math.floor(Math.random() * 5);
-	var urls=["https://bit.ly/dienmayquanghanh313","link2","link3","link4","link5"];
+	var urls=["https://bit.ly/dienmayquanghanh313","link2","https://www.youtube.com/c/dienmayquanghanh","https://www.facebook.com/dienmaygiadungquanghanh","https://hatari.com.vn/"];
 	
 	var url_popup = urls[i];
 
